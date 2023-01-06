@@ -1,0 +1,35 @@
+body {
+    background-color: powderblue;
+    border-style: none;
+}
+
+hr {
+
+    /* display: inline-block; */
+    color: grey;
+    /* background-color: red; */
+    /* width: 30px; */
+    border-style: dotted none none;
+    width: 2.75%;
+    border-width: 5px; 
+    /* height: 50%; */
+    /* height: 0px;
+    width: 10%;
+    white-space: nowrap;
+    overflow: hidden !important;
+    text-overflow: ellipsis; */
+    /* border-style: inset; */
+
+}
+
+ul{
+    list-style: none;
+}
+
+img {
+    height: 225px;
+    width: 200px;
+}
+div.MyDivEle{
+    text-align: center;
+}
