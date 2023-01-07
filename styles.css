@@ -22,13 +22,26 @@ hr {
 
 }
 
-ul{
-    list-style: none;
+/* ul{
+    /* list-style-type: "\1F44D"; */
+    /* list-style-position: inside;  */
+    /* text-align: center;
+    display: table;
+  margin: 0 auto; */ 
+  /* display: table; 
+    margin: 0 auto;
+    text-align: left; */
+
+
+/* } */
+ul.hobbies,ul.books{
+      display: table;
+      text-align: left;
 }
 
 img {
-    height: 225px;
-    width: 200px;
+   
+    border-radius: 50%;
 }
 div.MyDivEle{
     text-align: center;
